@@ -14,17 +14,17 @@ More details about installation in this [Link 🔗](https://learn.microsoft.com/
 
 #### 2 - Clone this repository and build
 
-Git clone this project in a folder of your choice, go to the Source folder and open the .sln file, in Visual Studio press Ctrl+Shift+B, this will compile the project without running, it just generates the executable.
+Git clone this project in a folder of your choice, go to the "Src" folder and open the .sln file, in Visual Studio press Ctrl+Shift+B, this will compile the project without running, it just generates the executable.
 
 > git clone https://github.com/ali90taz/RingZero
 
 #### 3 - Open a PowerShell or CMD window with adminstrator privileges and run
 
-If you compiled correctly, the binary will be in the Bin folder with the name rz.exe, always open it with administrator privileges.
+If you compiled correctly, the binary will be in the "Bin" folder with the name rz.exe, always open it with administrator privileges.
 
 ### Help and reference
 
-In the Doc folder there is a help file (.chm) detailing the use of the WinRing0 API in detail, take a look.
+In the "Doc" folder there is a help file (manual.chm) detailing the use of the WinRing0 API in detail, take a look.
 
 ### Disclaimer
 
