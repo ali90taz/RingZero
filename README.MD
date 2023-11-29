@@ -1,4 +1,4 @@
-﻿# Windows Ring 0 API Demo
+﻿## Windows Ring 0 API Demo
 
 Just a simple project showing the use of the WinRing0 API on Windows 11 64-bit, compiled with Visual Studio 2022.
 
